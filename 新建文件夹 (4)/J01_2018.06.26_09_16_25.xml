@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.26_09_16_25.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jumps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2383</xmin>
+			<ymin>1240</ymin>
+			<xmax>2418</xmax>
+			<ymax>1404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jumps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2357</xmin>
+			<ymin>6</ymin>
+			<xmax>2458</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
